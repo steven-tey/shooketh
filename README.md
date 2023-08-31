@@ -4,7 +4,7 @@
 </a>
 
 <p align="center">
-  an AI bot built with the Vercel AI SDK and fine-tuned on Shakespeare's literary works.
+  An AI bot built with the Vercel AI SDK and fine-tuned on Shakespeare's literary works.
 </p>
 
 <p align="center">
